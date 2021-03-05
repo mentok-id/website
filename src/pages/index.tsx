@@ -7,6 +7,7 @@ export default function Home() {
         <title>Mentok.id | Coming Soon</title>
         {/* Need Change to NEXT-SEO Package */}
         <meta name="title" content="Mentok.id — Coming Soon" />
+        <meta name="google-site-verification" content="aBcoELgijEZRXXIqNxrTjLAzr3cJIev8yOAfQL_kf6E" />
         <meta
           name="description"
           content="Mentok adalah platform dari komunitas untuk komunitas yang lebih besar."
